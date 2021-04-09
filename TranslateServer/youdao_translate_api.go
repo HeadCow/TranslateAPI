@@ -19,8 +19,8 @@ import (
 
 var (
 	YOUDAO_URL    = "https://openapi.youdao.com/api"
-	YOUDAO_APPID  = "0c48af489fab0a9b"
-	YOUDAO_APPKEY = "GDStDZ7SOxMAEANgVOlDeN5vWgKYtP0x"
+	YOUDAO_APPID  = ""
+	YOUDAO_APPKEY = ""
 )
 
 /* 有道翻译API */
