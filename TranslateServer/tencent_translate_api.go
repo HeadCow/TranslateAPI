@@ -18,8 +18,8 @@ import (
 
 var (
 	TENCENT_URL    = "https://tmt.tencentcloudapi.com/"
-	TENCENT_APPID  = "AKIDsDE16GoSaXH7nFrSaZv26xWu4dyrRu63"
-	TENCENT_APPKEY = "yiiWZzDTTKxLnwqTtHMDRQjoenjdIqBu"
+	TENCENT_APPID  = ""
+	TENCENT_APPKEY = ""
 )
 
 type TencentTranslateAPI struct {
