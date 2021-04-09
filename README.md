@@ -11,5 +11,5 @@
 text | 无 | 无 | 需翻译的文本 | 请求必须包含的参数
 from | "auto" | 请参照对应API文档 | 源语言 | API可自动识别
 to | "auto" | 请参照对应API文档 |目标语言 | API可自动识别，但调用腾讯翻译必须明确语种，例如英文"en"
-method | "post" | "post"/"get" | 请求方式 | 实现了get与post两种方式，默认为post
-api | "youdao" | "youdao"/"baidu"/"tencent" | 调用的API名称 | 默认调用有道翻译
+method | "post" | "post" / "get" | 请求方式 | 实现了get与post两种方式，默认为post
+api | "youdao" | "youdao" / "baidu" / "tencent" | 调用的API名称 | 默认调用有道翻译
