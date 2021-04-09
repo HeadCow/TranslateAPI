@@ -12,8 +12,8 @@ import (
 
 var (
 	BAIDU_URL    = "https://fanyi-api.baidu.com/api/trans/vip/translate"
-	BAIDU_APPID  = "20210403000760696"
-	BAIDU_APPKEY = "cXX2Q1PSF7HsFeArJLaR"
+	BAIDU_APPID  = ""
+	BAIDU_APPKEY = ""
 )
 
 type BaiduTranslateAPI struct {
